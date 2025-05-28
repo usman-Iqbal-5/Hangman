@@ -95,4 +95,4 @@ java Main
 ## 📞 Contact
 
 For questions or support, please reach out at:  
-GitHub: [https://github.com/Usman-A-Iqbal](https://github.com/Usman-Iqbal-5)
+GitHub: [https://github.com/Usman-A-Iqbal](https://github.com/usman-Iqbal-5)
